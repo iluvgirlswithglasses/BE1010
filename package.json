@@ -1,6 +1,11 @@
 {
-    "name": "be1010",
-    "scripts": {
-        "start": "node main.js"
-    }
+	"name": "be1010",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"dependencies": {
+		"express": "^4.17.1",
+		"python": "0.0.4",
+		"sqlite3": "^5.0.2"
+	}
 }
